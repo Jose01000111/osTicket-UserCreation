@@ -76,20 +76,20 @@ Submitted by: Karen (Finance Manager)
 - #### Ticket #004: Email Not Syncing on Mobile
 Submitted by: Jose9 (IT Support)
 
-  Issue: "My company email isn’t syncing on my phone anymore. It worked fine last week. I’ve tried removing and re-adding the account, but no luck."
+    Issue: "My company email isn’t syncing on my phone anymore. It worked fine last week. I’ve tried removing and re-adding the account, but no luck."
 
-  Priority: Low
+    Priority: Low
 
-  Category: Email Issue
+    Category: Email Issue
 
 - #### Ticket #005: Computer Running Slow
-  Submitted by: Karen (Finance Manager)
+Submitted by: Karen (Finance Manager)
 
-  Issue: "My computer has been running really slow lately, especially when I open spreadsheets. It takes forever to load files, and I’m falling behind on my work."
+    Issue: "My computer has been running really slow lately, especially when I open spreadsheets. It takes forever to load files, and I’m falling behind on my work."
 
-  Priority: Medium
+    Priority: Medium
 
-Category: Performance Issue
+    Category: Performance Issue
 <h2>Systems and Technologies Deployed</h2>
 
     Microsoft Azure Virtual Machines/Compute
