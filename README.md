@@ -10,9 +10,18 @@
 
     Set up SLAs to define response times.
 
+<p align="center">
+<img src="https://i.imgur.com/hL5NElJ.png" alt="osTicket logo"/>
+</p>
+
     Assign user roles (Admin, Technician, End User) for realistic workflows.
 
     Start logging and resolving test tickets to simulate real IT scenarios.
+
+<p align="center">
+<img src="https://i.imgur.com/BcUbygS.png" alt="osTicket logo"/>
+</p>
+
 
 - #### Step 8: Secure the System
   
@@ -20,11 +29,19 @@
 
     Install an SSL certificate for secure access.
 
-- #### Step 9: Simulate an IT Support Environment
+- #### Step 9: Simulate an IT Support Environment https://imgur.com/ba1CQKX
   
     Ticket submissions and troubleshooting will be simulated by ChatGPT, providing mock tickets for practice scenarios.
 
+<p align="center">
+<img src="https://i.imgur.com/ba1CQKX.png" alt="osTicket logo"/>
+</p>
+
     Use the Admin Panel to manage and resolve tickets.
+
+<p align="center">
+<img src="https://i.imgur.com/9QMDoJz.png" alt="osTicket logo"/>
+</p>
 
     Analyze ticket history to identify recurring issues and resolution trends.
 
