@@ -23,3 +23,9 @@
     Analyze ticket history to identify recurring issues and resolution trends.
 
 <h2>Systems and Technologies Deployed</h2>
+
+    Microsoft Azure (Virtual Machines/Compute)
+  
+    Remote Desktop
+  
+    Internet Information Services (IIS)
