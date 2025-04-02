@@ -13,6 +13,7 @@
 <p align="center">
 <img src="https://i.imgur.com/hL5NElJ.png" alt="osTicket logo"/>
 </p>
+
     Assign user roles (Admin, Technician, End User) for realistic workflows.
     
     Start logging and resolving test tickets to simulate real IT scenarios.
@@ -48,54 +49,52 @@
 - #### Ticket #001: Printer Not Responding
 Submitted by: Karen (Finance Manager)
 
-Issue: "The office printer isn’t responding when I try to print invoices. It was working fine yesterday. I’ve checked the cables, and everything seems plugged in."
+  Issue: "The office printer isn’t responding when I try to print invoices. It was working fine yesterday. I’ve checked the cables, and everything seems plugged in."
 
-Priority: High
+  Priority: High
 
-Category: Hardware Issue
+  Category: Hardware Issue
 
 - #### Ticket #002: VPN Connection Issues
 Submitted by: Jose9 (IT Support)
 
-Issue: "I’m unable to connect to the company VPN while working remotely. It keeps timing out, even after restarting my laptop."
+  Issue: "I’m unable to connect to the company VPN while working remotely. It keeps timing out, even after restarting my laptop."
 
-Priority: Medium
+  Priority: Medium
 
-Category: Network Issue
+  Category: Network Issue
 
 - #### Ticket #003: Accounting Software Login Failure
 Submitted by: Karen (Finance Manager)
 
-Issue: "I can’t log into our accounting software. It says ‘invalid credentials,’ but I haven’t changed my password. I need access ASAP to process payroll."
+  Issue: "I can’t log into our accounting software. It says ‘invalid credentials,’ but I haven’t changed my password. I need access ASAP to process payroll."
 
-Priority: Urgent
+  Priority: Urgent
 
-Category: Application Issue
+  Category: Application Issue
 
 - #### Ticket #004: Email Not Syncing on Mobile
 Submitted by: Jose9 (IT Support)
 
-Issue: "My company email isn’t syncing on my phone anymore. It worked fine last week. I’ve tried removing and re-adding the account, but no luck."
+  Issue: "My company email isn’t syncing on my phone anymore. It worked fine last week. I’ve tried removing and re-adding the account, but no luck."
 
-Priority: Low
+  Priority: Low
 
-Category: Email Issue
+  Category: Email Issue
 
 - #### Ticket #005: Computer Running Slow
-Submitted by: Karen (Finance Manager)
+  Submitted by: Karen (Finance Manager)
 
-Issue: "My computer has been running really slow lately, especially when I open spreadsheets. It takes forever to load files, and I’m falling behind on my work."
+  Issue: "My computer has been running really slow lately, especially when I open spreadsheets. It takes forever to load files, and I’m falling behind on my work."
 
-Priority: Medium
+  Priority: Medium
 
 Category: Performance Issue
-
 <h2>Systems and Technologies Deployed</h2>
 
-
-    Microsoft Azure (Virtual Machines/Compute)
-  
+    Microsoft Azure Virtual Machines/Compute
+    
     Remote Desktop
-  
+    
     Internet Information Services (IIS)
 
