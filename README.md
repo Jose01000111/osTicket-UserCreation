@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/9dYCotk.png" alt="osTicket logo"/>
+</p>
+
 # osTicket-UserCreation
 
 - #### Step 7: Customize osTicket for IT Helpdesk Training
