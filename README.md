@@ -31,7 +31,7 @@
 
     Install an SSL certificate for secure access.
 
-- ## Step 9: Simulate an IT Support Environment https://imgur.com/ba1CQKX
+- ## Step 9: Simulate an IT Support Environment 
   
 Ticket submissions and troubleshooting will be simulated by ChatGPT, providing mock tickets for practice scenarios.
 
