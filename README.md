@@ -4,48 +4,38 @@
 
 # osTicket-UserCreation
 
-##### In this lab, I created and managed users within osTicket, successfully setting up ticket users like Karen (Finance Manager) and listing test tickets. While this didn’t advance my A+ test prep, it gave me hands-on experience with a real help desk ticketing system. Overall, using this free ticketing system was a positive experience and a great way to familiarize myself with IT support workflows.
+#### In this lab, I created and managed users within osTicket, successfully setting up ticket users like Karen (Finance Manager) and listing test tickets. While this didn’t advance my A+ test prep, it gave me hands-on experience with a real help desk ticketing system. Overall, using this free ticketing system was a positive experience and a great way to familiarize myself with IT support workflows.
 
-- ## Step 7: Customize osTicket for IT Helpdesk Training
-  
-    Configure ticket categories (e.g., Hardware, Software, Network).
-
-    Set up SLAs to define response times.
+## Step 7: Customize osTicket for IT Helpdesk Training
+I configured ticket categories such as Hardware, Software, and Network to organize incoming requests effectively. I then set up SLAs to establish clear expectations for response and resolution times. I assigned user roles like Admin, Technician, and End User to create a realistic workflow environment. Finally, I began logging and resolving test tickets to simulate real IT helpdesk scenarios.
 
 <p align="center">
 <img src="https://i.imgur.com/hL5NElJ.png" alt="osTicket logo"/>
 </p>
 
-  Assign user roles (Admin, Technician, End User) for realistic workflows.
-    
-  Start logging and resolving test tickets to simulate real IT scenarios.
-
+***
 
 <p align="center">
 <img src="https://i.imgur.com/BcUbygS.png" alt="osTicket logo"/>
 </p>
 
-- ## Step 8: Secure the System
-  
-    Configure firewall rules to restrict access.
+*** 
 
-    Install an SSL certificate for secure access.
+## Step 8: Secure the System
+To secure the system, I configured firewall rules to restrict access only to trusted sources. I also installed an SSL certificate to ensure that all communications with the osTicket portal are encrypted and secure.
 
-- ## Step 9: Simulate an IT Support Environment 
-  
-Ticket submissions and troubleshooting will be simulated by ChatGPT, providing mock tickets for practice scenarios.
+## Step 9: Simulate an IT Support Environment 
+I used ChatGPT to generate mock ticket submissions to simulate IT support scenarios. Using the Admin Panel, I managed and resolved these tickets to practice real-world troubleshooting. I also reviewed ticket history to identify recurring issues and refine our support approach.
 
 <p align="center">
 <img src="https://i.imgur.com/ba1CQKX.png" alt="osTicket logo"/>
 </p>
 
-Use the Admin Panel to manage and resolve tickets.
 
 <p align="center">
 <img src="https://i.imgur.com/9QMDoJz.png" alt="osTicket logo"/>
 </p>
 
-Analyze ticket history to identify recurring issues and resolution trends.
 
 # Mock Help Desk Tickets
 - #### Ticket #001: Printer Not Responding
