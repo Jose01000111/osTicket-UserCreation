@@ -31,6 +31,7 @@ I used ChatGPT to generate mock ticket submissions to simulate IT support scenar
 <img src="https://i.imgur.com/ba1CQKX.png" alt="osTicket logo"/>
 </p>
 
+***
 
 <p align="center">
 <img src="https://i.imgur.com/9QMDoJz.png" alt="osTicket logo"/>
@@ -38,7 +39,8 @@ I used ChatGPT to generate mock ticket submissions to simulate IT support scenar
 
 
 # Mock Help Desk Tickets
-- #### Ticket #001: Printer Not Responding
+
+#### Ticket #001: Printer Not Responding
 Submitted by: Karen (Finance Manager)
 
 Issue: "The office printer isn’t responding when I try to print invoices. It was working fine yesterday. I’ve checked the cables, and everything seems plugged in."
@@ -47,7 +49,7 @@ Priority: High
 
 Category: Hardware Issue
 
-- #### Ticket #002: VPN Connection Issues
+#### Ticket #002: VPN Connection Issues
 Submitted by: Jose9 (IT Support)
 
 Issue: "I’m unable to connect to the company VPN while working remotely. It keeps timing out, even after restarting my laptop."
@@ -56,7 +58,7 @@ Priority: Medium
 
 Category: Network Issue
 
-- #### Ticket #003: Accounting Software Login Failure
+#### Ticket #003: Accounting Software Login Failure
 Submitted by: Karen (Finance Manager)
 
 Issue: "I can’t log into our accounting software. It says ‘invalid credentials,’ but I haven’t changed my password. I need access ASAP to process payroll."
@@ -65,7 +67,7 @@ Priority: Urgent
 
 Category: Application Issue
 
-- #### Ticket #004: Email Not Syncing on Mobile
+#### Ticket #004: Email Not Syncing on Mobile
 Submitted by: Jose9 (IT Support)
 
 Issue: "My company email isn’t syncing on my phone anymore. It worked fine last week. I’ve tried removing and re-adding the account, but no luck."
@@ -74,7 +76,7 @@ Priority: Low
 
 Category: Email Issue
 
-- #### Ticket #005: Computer Running Slow
+#### Ticket #005: Computer Running Slow
 Submitted by: Karen (Finance Manager)
 
 Issue: "My computer has been running really slow lately, especially when I open spreadsheets. It takes forever to load files, and I’m falling behind on my work."
